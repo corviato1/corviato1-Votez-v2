@@ -3,4 +3,5 @@
 
 
 # Notes
-We need our own gateway
+- We need our own gateway
+- Integrate Metamask signing for changes made to user profile page and google authenticator window
